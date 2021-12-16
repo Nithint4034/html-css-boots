@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(150, 160, 92, 0.4);
+    text-transform: capitalize;
+    text-align: justify;
+    font-size:larger;
+    font-family: sans-serif;
+    text-transform:capitalize;
+    
+}
+nav a {
+    text-decoration: none;
+    padding-bottom: 20px;
+    padding-left: 230px;
+}
+div{
+    display:flex;
+}
+img{
+    flex-basis: 50px;
+    width: 50%;
+}
+p{
+    margin-left: 20px;
+}
+
